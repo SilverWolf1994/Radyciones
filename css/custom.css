@@ -1,0 +1,21 @@
+body {
+    color: #140012;
+}
+
+.full_title {
+    color: #370230;
+    text-align: center;
+}
+.sub_title {
+    font-family: monospace;
+    text-align: center;
+}
+.cat-pic {
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+}
+.cat-race-name {
+    padding-left: 10px;
+    background-color: #864e7f;
+}
